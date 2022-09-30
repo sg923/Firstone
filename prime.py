@@ -21,5 +21,5 @@ if num > 1:
 else:
    print(num,"is not a prime number")
 
-   print("Youre stupid")
+   print("Yo!git")
    print("Hi hello")
